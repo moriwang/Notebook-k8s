@@ -1,5 +1,9 @@
 ## Release note
 
+### 2020-01-10
+* 增加 jupyter/minimal-notebook 内容
+* 安装 TLJH 版本内置的 nbnbgitpuller 与 nbresuse
+
 ### 2020-01-09
 * 指定 python 版本 3.6
 * 移除 conda—forge channel
