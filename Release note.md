@@ -1,6 +1,6 @@
 ## Release note
 
-### 2020-01-10
+### 2020-01-10 (v0.0.1)
 * 增加 jupyter/minimal-notebook 内容
 * 安装 TLJH 版本内置的 nbnbgitpuller 与 nbresuse
 
